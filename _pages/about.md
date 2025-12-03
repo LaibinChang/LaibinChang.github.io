@@ -86,8 +86,8 @@ My research interests include:
 - *Conference Reviewer*: CVPR 2026/2025, ICCV 2025, AAAI 2026/2025, ACM MM 2025.
 - *Journal Reviewer*: TPAMI, IJCV, TIP, TMM, TCSVT, TGRS, ISPRS PR, NN, Neurocomputing, etc.
 
-<div style="text-align:center;">
-<script type="text/javascript" id="mapmyvisitors" 
+<div style="width: 800px; margin: auto;">
+<script type="text/javascript" id="mapmyvisitors"
 src="//mapmyvisitors.com/map.js?d=bKPD5_Pz0iTFR8Ouc2uEyUusaz4tA1n_39-GpZ2ON2s&cl=ffffff&w=a">
 </script>
 </div>
