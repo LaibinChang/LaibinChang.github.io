@@ -24,10 +24,10 @@ author:
   name             : "Laibin Chang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "PhD Candidate in Computer Science, Wuhan University"
-  location         : "WuHan, China"
-  employer         : "Wuhan University"
+  location         : "Wuhan University"
+  employer         : # ""
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=118X8PgAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=1l8X8PgAAAAJ"
   email            : "changlb666@whu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
