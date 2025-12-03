@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Laibin Chang"
-description              : "PhD Candidate in Software Engineering, Wuhan University. "
+description              : "PhD Candidate in Wuhan University. "
 repository               : "LaibinChang/LaibinChang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Laibin Chang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "PhD Candidate in Computer Science, Wuhan University"
-  location         : "Wuhan University"
+  bio              : "Interested in Computer Vision"
+  location         : "Wuhan, China"
   employer         : # ""
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=1l8X8PgAAAAJ"
@@ -44,7 +44,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : "https://dblp.org/pid/329/0527.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
