@@ -62,7 +62,7 @@ My research interests include:
 
 3. **Laibin Chang**, Yunke Wang, Bo Du, Chang Xu. Color Correction Meets Cross-Spectral Refinement: A Distribution-Aware Diffusion for Underwater Image Restoration. IEEE Transactions on Multimedia (TMM), 2025.
 
-4. **Laibin Chang**, Yunke Wang, Bo Du, Chang Xu. Rectangling and enhancing underwater stitched image via content-aware warping and perception balancing. Neural Networks (NN), 2024.
+4. **Laibin Chang**, Yunke Wang, Bo Du, Chang Xu. Rectangling and enhancing underwater stitched image via content-aware warping and perception balancing. Neural Networks (NN), 2025.
 
 5. **Laibin Chang**, Yunke Wang, Jiahui Huang, et al. Beyond Fixed Pseudo-Labels: Adversarial Teacher–Student Learning for Unsupervised Camouflaged Object Detection. 2025.（Under Review）
 
