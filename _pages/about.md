@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my academic homepage. I am Laibin Chang, a Ph.D. candidate in Computer Science at Wuhan University (WHU). I am affiliated with the SIGMA Lab, advised by Prof. Bo Du (Distinguished Professor, Dean) and Prof. Chang Xu (Changjiang Scholar). Before that, I obtained my M.Eng. and B.Eng. degrees in Information and Communication Engineering and Electronic Information Engineering from China University of Petroleum (East China), advised by Prof. Huajun Song and .
+Welcome to my academic homepage. I am Laibin Chang, a Ph.D. candidate in Software Engineering at Wuhan University (WHU). I am currently affiliated with the SIGMA Lab (https://sigma.whu.edu.cn/index.htm), supervised by Prof. Bo Du (Google Scholar: https://scholar.google.com/citations?user=Shy1gnMAAAAJ) and Prof. Chang Xu (Google Scholar: https://scholar.google.com/citations?user=N4F_3eoAAAAJ). Before that, I obtained my M.Eng. and B.Eng. degrees in Information and Communication Engineering and Electronic Information Engineering from China University of Petroleum (East China), advised by Prof. Huajun Song and .
 
 My research focuses on computer vision and intelligent information processing, with an emphasis on challenging low-quality and complex environments. I work on image enhancement, underwater image processing, image segmentation, multimodal fusion, and multi-task learning. I have published several first-author papers in top-tier venues such as *IEEE TPAMI*, *AAAI*, *IEEE TMM*, *ISPRS Journal of Photogrammetry and Remote Sensing*, and *Neural Networks*, and I actively collaborate with Prof. Bo Du, Prof. Chang Xu, and other researchers in the field.
 
