@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Laibin Chang"
-description              : "PhD Candidate in Wuhan University. "
+description              : "Interested in Computer Vision. "
 repository               : "LaibinChang/LaibinChang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Laibin Chang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Interested in Computer Vision"
+  bio              : "PhD Candidate in Wuhan University"
   location         : "Wuhan, China"
   employer         : # ""
   pubmed           : 
