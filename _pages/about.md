@@ -24,7 +24,9 @@ My research focuses on computer vision and intelligent information processing, w
 My research interests include:
 
 • **Low-level Vision & Image Enhancement:** Underwater image restoration; Low-light enhancement; Diffusion-based enhancement
+
 • **Image Segmentation & Recognition:** Fine-grained segmentation; Marine saliency detection
+
 • **Multimodal Learning:** Cross-modal feature fusion; Prompt-based segmentation
 
 📬 I am open to collaboration and welcome inquiries from anyone interested in my research. Please feel free to contact me.
