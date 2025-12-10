@@ -23,7 +23,7 @@ My research focuses on computer vision and intelligent information processing, w
 
 My research interests include:
 
-• **Low-level Vision & Image Enhancement:** Underwater image restoration; Low-light enhancement; Diffusion-based enhancement
+• **Low-level Vision & Image Enhancement:** Underwater image restoration; Low-light enhancement; Diffusion-based restoration
 
 • **Image Segmentation & Recognition:** Fine-grained segmentation; Marine saliency detection
 
@@ -32,11 +32,6 @@ My research interests include:
 📬 I am open to collaboration and welcome inquiries from anyone interested in my research. Please feel free to contact me.
 
 ---
-
-## 📞 Contact
-
-- **Email:** changlb666@whu.edu.cn  
-- **WeChat:** changlb666
 
 <!--
 # 🔥 News
@@ -86,6 +81,11 @@ My research interests include:
 # 💬 Academic Service
 - *Conference Reviewer*: CVPR 2026/2025, ICCV 2025, AAAI 2026/2025, ACM MM 2025.
 - *Journal Reviewer*: TPAMI, IJCV, TIP, TMM, TCSVT, TGRS, ISPRS PR, NN, Neurocomputing, etc.
+
+## 📞 Contact
+
+- **Email:** changlb666@whu.edu.cn  
+- **WeChat:** changlb666
 
 <div style="width: 600px; margin: auto;">
 <script type="text/javascript" id="mapmyvisitors"
