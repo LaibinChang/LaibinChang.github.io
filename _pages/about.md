@@ -63,7 +63,7 @@ My research interests include:
 
 5. **Laibin Chang**, Yunke Wang, Shaodong Wang, Xi Chen, Chang Xu, and Bo Du. Beyond Fixed Pseudo-Labels: Adversarial Teacher–Student Learning for Unsupervised Camouflaged Object Detection. 2025.（Under Review）
 
-6. **Laibin Chang**, Yuxin Wang, Kui Jiang, Shaodong Wang, Bo Du. From Visibility to Detection: Saliency-Guided Underwater Image Restoration with Hierarchical Dual-Branch Refinement. 2025.（Under Review）
+6. **Laibin Chang**, Yunke Wang, Kui Jiang, Shaodong Wang, Bo Du. From Visibility to Detection: Saliency-Guided Underwater Image Restoration with Hierarchical Dual-Branch Refinement. 2025.（Under Review）
 
 # 🎖 Honors and Awards
 - *2025.10* National Scholarship for Graduate Students, Ministry of Education.
