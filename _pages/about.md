@@ -80,7 +80,7 @@ My research interests include:
 
 # 💬 Academic Service
 - *Conference Reviewer*: CVPR 2026/2025, ICCV 2025, AAAI 2026/2025, ACM MM 2025.
-- *Journal Reviewer*: TPAMI, IJCV, TIP, TMM, TCSVT, TGRS, ISPRS PR, NN, Neurocomputing, etc.
+- *Journal Reviewer*: IJCV, TMM, TCSVT, TGRS, ISPRS PR, NN, Neurocomputing, etc.
 
 ## 📞 Contact
 
