@@ -88,7 +88,8 @@ My research interests include:
 - **WeChat:** changlb666
 
 <div style="width: 600px; margin: auto;">
-<script type="text/javascript" id="mapmyvisitors"
-src="//mapmyvisitors.com/map.js?d=bKPD5_Pz0iTFR8Ouc2uEyUusaz4tA1n_39-GpZ2ON2s&cl=ffffff&w=a">
-</script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=bKPD5_Pz0iTFR8Ouc2uEyUusaz4tA1n_39-GpZ2ON2s'></script>
 </div>
+
+
+
