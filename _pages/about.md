@@ -61,9 +61,9 @@ My research interests include:
 
 4. **Laibin Chang**, Yunke Wang, Bo Du, and Chang Xu. Rectangling and enhancing underwater stitched image via content-aware warping and perception balancing. Neural Networks, 2024.
 
-5. **Laibin Chang**, Yunke Wang, Shaodong Wang, Xi Chen, Bo Du, and Chang Xu. Beyond Fixed Pseudo-Labels: Adversarial Teacher–Student Learning for Unsupervised Camouflaged Object Detection. 2025.（Under Review）
+5. **Laibin Chang**, Yunke Wang, Xu Zhang, Kui Jiang, Chang Xu, and Bo Du. SADA-IR: Learning Semantic-Adaptive and Degradation-Aware Priors for Multi-Weather Image Restoration. 2026. (Under Review)
 
-6. **Laibin Chang**, Yunke Wang, Kui Jiang, Shaodong Wang, and Bo Du. From Visibility to Detection: Saliency-Guided Underwater Image Restoration with Hierarchical Dual-Branch Refinement. 2025.（Under Review）
+6. **Laibin Chang**, Shaodong Wang, Yunke Wang, Xu Zhang, Kui Jiang, Chang Xu, and Bo Du. UniV2D: Bridging Visual Restoration and Semantic Perception for Underwater Salient Object Detection. 2026. (Under Review)
 
 # 🎖 Honors and Awards
 - *2025.10* National Scholarship for Graduate Students, Ministry of Education.
