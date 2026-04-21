@@ -83,8 +83,8 @@ My research interests include:
 - *2016.09 – 2020.06*, B.Eng. in Electronic Information Engineering, China University of Petroleum (UPC), Qingdao, China.
 
 # 💬 Academic Service
-- *Conference Reviewer*: CVPR 2026/2025, ICCV 2025, AAAI 2026/2025, ACM MM 2025.
-- *Journal Reviewer*: IJCV, TMM, TCSVT, TGRS, ISPRS PR, NN, Neurocomputing, etc.
+- *Conference Reviewer*: CVPR 2026/2025, ICCV 2025, AAAI 2026/2025, ACM MM 2026/2025, ECCV 2026, NeurIPS 2025.
+- *Journal Reviewer*: TPAMI, IJCV, TIP, TMM, TCSVT, TGRS, ISPRS PR, NN, Neurocomputing, etc.
 
 ## 📞 Contact
 
