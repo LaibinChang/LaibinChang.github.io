@@ -19,7 +19,7 @@ redirect_from:
 
 # Laibin Chang (常来宾)
 
-Welcome to my academic homepage! I am a **Ph.D. Candidate** at the School of Computer Science, **Wuhan University (WHU)**. I am currently affiliated with the [**SIGMA Lab**](https://sigma.whu.edu.cn/index.htm), supervised by [**Prof. Bo Du**](https://scholar.google.com/citations?user=Shy1gnMAAAAJ) and [**Prof. Chang Xu**](https://scholar.google.com/citations?user=N4F_3eoAAAAJ). Prior to joining WHU, I received my M.Eng. and B.Eng. degrees from China University of Petroleum (East China), under the guidance of [**Assoc. Prof. Huajun Song**](https://ocean.upc.edu.cn/2019/1110/c15435a225005/page.htm) and [**Prof. Peng Ren**](https://scholar.google.com/citations?user=84q_1TEAAAAJ).
+Welcome to my academic homepage! I am a **third-year Ph.D. student** at the School of Computer Science, **Wuhan University (WHU)**. I am currently affiliated with the [**SIGMA Lab**](https://sigma.whu.edu.cn/index.htm), supervised by [**Prof. Bo Du**](https://scholar.google.com/citations?user=Shy1gnMAAAAJ) and [**Prof. Chang Xu**](https://scholar.google.com/citations?user=N4F_3eoAAAAJ). Prior to joining WHU, I received my M.Eng. and B.Eng. degrees from China University of Petroleum (East China), under the guidance of [**Assoc. Prof. Huajun Song**](https://ocean.upc.edu.cn/2019/1110/c15435a225005/page.htm) and [**Prof. Peng Ren**](https://scholar.google.com/citations?user=84q_1TEAAAAJ).
 
 ---
 
