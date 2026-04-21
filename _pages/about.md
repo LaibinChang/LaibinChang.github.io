@@ -65,7 +65,7 @@ My research interests include:
 
 6. Huajun Song, **Laibin Chang***, Hao Wang, and Peng Ren. Dual-model: Revised imaging network and visual perception correction for underwater image enhancement. Engineering Applications of Artificial Intelligence, 2023
 
-7. **Laibin Chang**, Yunke Wang, Xu Zhang, Kui Jiang, Chang Xu, and Bo Du. SADA-IR: Learning Semantic-Adaptive and Degradation-Aware Priors for Multi-Weather Image Restoration. 2026. (Under Review)
+7. **Laibin Chang**, Yunke Wang, Xu Zhang, Kui Jiang, Chang Xu, and Bo Du. SADA-IR: Learning Semantic-Adaptive and Degradation-Aware Priors for Multi-Weather Image Restoration. 2025. (Under Review)
 
 8. **Laibin Chang**, Shaodong Wang, Yunke Wang, Xu Zhang, Kui Jiang, Chang Xu, and Bo Du. UniV2D: Bridging Visual Restoration and Semantic Perception for Underwater Salient Object Detection. 2026. (Under Review)
 
