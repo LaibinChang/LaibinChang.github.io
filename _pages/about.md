@@ -17,23 +17,32 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my academic homepage! I am **Laibin Chang**, a Ph.D. candidate at the School of Computer Science, Wuhan University (WHU). I am currently affiliated with the [SIGMA Lab](https://sigma.whu.edu.cn/index.htm), supervised by [Prof. Bo Du](https://scholar.google.com/citations?user=Shy1gnMAAAAJ) and Prof. [Prof. Chang Xu](https://scholar.google.com/citations?user=N4F_3eoAAAAJ). Before that, I obtained my M.Eng. and B.Eng. degrees in Information and Communication Engineering and Electronic Information Engineering from China University of Petroleum (East China), advised by Assoc. [Prof. Huajun Song](https://ocean.upc.edu.cn/2019/1110/c15435a225005/page.htm) and [Prof. Peng Ren](https://scholar.google.com/citations?user=84q_1TEAAAAJ).
+# Laibin Chang (常来宾)
 
-My research focuses on computer vision and intelligent information processing, with an emphasis on challenging low-quality and complex environments. I work on underwater visual perception, image enhancement, image segmentation, and salient object detection. I actively collaborate with [Yunke Wang](https://yunke-wang.github.io/), [Xu Zhang](https://house-yuyu.github.io/), [Kui Jiang](https://scholar.google.com/citations?user=AbOLE9QAAAAJ&hl), and several other researchers in the field.
+Welcome to my academic homepage! I am a **Ph.D. Candidate** at the School of Computer Science, **Wuhan University (WHU)**. I am currently affiliated with the [**SIGMA Lab**](https://sigma.whu.edu.cn/index.htm), supervised by [**Prof. Bo Du**](https://scholar.google.com/citations?user=Shy1gnMAAAAJ) and [**Prof. Chang Xu**](https://scholar.google.com/citations?user=N4F_3eoAAAAJ). Prior to joining WHU, I received my M.Eng. and B.Eng. degrees from China University of Petroleum (East China), under the guidance of [**Assoc. Prof. Huajun Song**](https://ocean.upc.edu.cn/2019/1110/c15435a225005/page.htm) and [**Prof. Peng Ren**](https://scholar.google.com/citations?user=84q_1TEAAAAJ).
 
-My research interests include:
+---
 
-• **Low-level Vision:** Underwater image restoration/enhancement; Low-light enhancement; Adverse weather removal;
+### 🔍 Research Interests
+My research focuses on **Computer Vision** and **Intelligent Information Processing**, with a particular emphasis on challenging low-quality and complex environments. My work aims to bridge the gap between low-level image restoration and high-level semantic perception through **cross-task coupled optimization**.
 
-• **Image Segmentation & Recognition:** Underwater salient object detection; Camouflaged object detection;
+* **Low-level Vision:** Underwater image restoration/enhancement, low-light enhancement, and adverse weather removal.
+* **Perception & Segmentation:** Underwater salient object detection (USOD) and camouflaged object detection (COD).
+* **Multimodal Learning:** Cross-modal feature fusion and prompt-based segmentation.
 
-• **Multimodal Learning:** Cross-modal feature fusion; Prompt-based segmentation;
+---
 
-📬 I am open to collaboration and welcome inquiries from anyone interested in my research. Please feel free to contact me via Email or WeChat.
+### 🤝 Collaboration
+I actively collaborate with [Yunke Wang](https://yunke-wang.github.io/), [Xu Zhang](https://house-yuyu.github.io/), [Kui Jiang](https://scholar.google.com/citations?user=AbOLE9QAAAAJ&hl), and other researchers in the community. 
 
-## 📞 Contact
-- **Email（邮箱）:** changlb666@whu.edu.cn  
-- **WeChat（微信）:** changlb666
+**I am always open to new collaborations and academic inquiries.** If you are interested in my research, please feel free to reach out.
+
+---
+
+### 📞 Contact
+* **Email:** [changlb666@whu.edu.cn](mailto:changlb666@whu.edu.cn)
+* **WeChat:** `changlb666`
+* **Location:** School of Computer Science, Wuhan University, Hubei, China
 
 ---
 
