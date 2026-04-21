@@ -22,7 +22,7 @@ Welcome to my academic homepage! I am **Laibin Chang**, a third-year Ph.D. stude
 ---
 
 ### 🔍 Research Interests
-My research focuses on **Computer Vision** and **Intelligent Information Processing**, with a particular emphasis on challenging low-quality and complex environments. My work aims to bridge the gap between low-level image restoration and high-level semantic perception through **cross-task coupled optimization**.
+My research focuses on **Computer Vision** and **Intelligent Information Processing**, with a particular emphasis on challenging low-quality and complex environments. My work aims to bridge the gap between low-level image restoration and high-level semantic perception through cross-task coupled optimization.
 
 * **Low-level Vision:** Underwater image restoration/enhancement, low-light enhancement, and adverse weather removal.
 * **Perception & Segmentation:** Underwater salient object detection (USOD) and camouflaged object detection (COD).
