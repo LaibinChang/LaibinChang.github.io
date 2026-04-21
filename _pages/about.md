@@ -29,11 +29,9 @@ My research interests include:
 
 • **Multimodal Learning:** Cross-modal feature fusion; Prompt-based segmentation;
 
-📬 I am open to collaboration and welcome inquiries from anyone interested in my research. Please feel free to contact me.
-
+📬 I am open to collaboration and welcome inquiries from anyone interested in my research. Please feel free to contact me via Email or WeChat.
 
 ## 📞 Contact
-
 - **Email（邮箱）:** changlb666@whu.edu.cn  
 - **WeChat（微信）:** changlb666
 
