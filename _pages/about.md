@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Laibin Chang (常来宾)
-
-Welcome to my academic homepage! I am a **third-year Ph.D. student** at the School of Computer Science, **Wuhan University (WHU)**. I am currently affiliated with the [**SIGMA Lab**](https://sigma.whu.edu.cn/index.htm), supervised by [**Prof. Bo Du**](https://scholar.google.com/citations?user=Shy1gnMAAAAJ) and [**Prof. Chang Xu**](https://scholar.google.com/citations?user=N4F_3eoAAAAJ). Prior to joining WHU, I received my M.Eng. and B.Eng. degrees from China University of Petroleum (East China), under the guidance of [**Assoc. Prof. Huajun Song**](https://ocean.upc.edu.cn/2019/1110/c15435a225005/page.htm) and [**Prof. Peng Ren**](https://scholar.google.com/citations?user=84q_1TEAAAAJ).
+Welcome to my academic homepage! I am **Laibin Chang**, a third-year Ph.D. student at the School of Computer Science, Wuhan University (WHU). I am currently affiliated with the [SIGMA Lab](https://sigma.whu.edu.cn/index.htm), supervised by [Prof. Bo Du](https://scholar.google.com/citations?user=Shy1gnMAAAAJ) and Prof. [Prof. Chang Xu](https://scholar.google.com/citations?user=N4F_3eoAAAAJ). Before that, I obtained my M.Eng. and B.Eng. degrees in Information and Communication Engineering and Electronic Information Engineering from China University of Petroleum (East China), advised by Assoc. [Prof. Huajun Song](https://ocean.upc.edu.cn/2019/1110/c15435a225005/page.htm) and [Prof. Peng Ren](https://scholar.google.com/citations?user=84q_1TEAAAAJ).
 
 ---
 
@@ -30,19 +28,15 @@ My research focuses on **Computer Vision** and **Intelligent Information Process
 * **Perception & Segmentation:** Underwater salient object detection (USOD) and camouflaged object detection (COD).
 * **Multimodal Learning:** Cross-modal feature fusion and prompt-based segmentation.
 
----
-
 ### 🤝 Collaboration
 I actively collaborate with [Yunke Wang](https://yunke-wang.github.io/), [Xu Zhang](https://house-yuyu.github.io/), [Kui Jiang](https://scholar.google.com/citations?user=AbOLE9QAAAAJ&hl), and other researchers in the community. 
 
-**I am always open to new collaborations and academic inquiries.** If you are interested in my research, please feel free to reach out.
+I am open to collaboration and welcome inquiries from anyone interested in my research. Please feel free to contact me via Email or WeChat.
 
----
 
 ### 📞 Contact
 * **Email:** [changlb666@whu.edu.cn](mailto:changlb666@whu.edu.cn)
 * **WeChat:** `changlb666`
-* **Location:** School of Computer Science, Wuhan University, Hubei, China
 
 ---
 
