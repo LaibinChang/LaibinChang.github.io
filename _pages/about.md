@@ -31,6 +31,12 @@ My research interests include:
 
 📬 I am open to collaboration and welcome inquiries from anyone interested in my research. Please feel free to contact me.
 
+
+## 📞 Contact
+
+- **Email（邮箱）:** changlb666@whu.edu.cn  
+- **WeChat（微信）:** changlb666
+
 ---
 
 <!--
@@ -85,11 +91,6 @@ My research interests include:
 # 💬 Academic Service
 - *Conference Reviewer*: CVPR 2026/2025, ICCV 2025, AAAI 2026/2025, ACM MM 2026/2025, ECCV 2026, NeurIPS 2025.
 - *Journal Reviewer*: TPAMI, IJCV, TIP, TMM, TCSVT, TGRS, ISPRS PR, NN, Neurocomputing, etc.
-
-## 📞 Contact
-
-- **Email:** changlb666@whu.edu.cn  
-- **WeChat:** changlb666
 
 <div style="width: 600px; margin: auto;">
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=bKPD5_Pz0iTFR8Ouc2uEyUusaz4tA1n_39-GpZ2ON2s'></script>
