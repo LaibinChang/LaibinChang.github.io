@@ -36,7 +36,7 @@ I am open to collaboration and welcome inquiries from anyone interested in my re
 
 ### 📞 Contact
 * **Email:** [changlb666@whu.edu.cn](mailto:changlb666@whu.edu.cn)
-* **WeChat:** `changlb666`
+* **WeChat（微信）:** `changlb666`
 
 ---
 
