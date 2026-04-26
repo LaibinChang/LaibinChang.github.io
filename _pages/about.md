@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my academic homepage! I am **Laibin Chang**, a third-year Ph.D. student at the School of Computer Science, Wuhan University (WHU). I am currently affiliated with the [SIGMA Lab](https://sigma.whu.edu.cn/index.htm), supervised by [Prof. Bo Du](https://scholar.google.com/citations?user=Shy1gnMAAAAJ) and Prof. [Prof. Chang Xu](https://scholar.google.com/citations?user=N4F_3eoAAAAJ). Before that, I obtained my M.Eng. and B.Eng. degrees in Information and Communication Engineering and Electronic Information Engineering from China University of Petroleum (East China), advised by Assoc. [Prof. Huajun Song](https://ocean.upc.edu.cn/2019/1110/c15435a225005/page.htm) and [Prof. Peng Ren](https://scholar.google.com/citations?user=84q_1TEAAAAJ).
+Welcome to my academic homepage! I am **Laibin Chang (常来宾)**, a third-year Ph.D. student at the School of Computer Science, Wuhan University (WHU). I am currently affiliated with the [SIGMA Lab](https://sigma.whu.edu.cn/index.htm), supervised by [Prof. Bo Du](https://cs.whu.edu.cn/info/1019/2892.htm) and Prof. [Prof. Chang Xu](http://changxu.xyz/). Before that, I obtained my M.Eng. and B.Eng. degrees in Information and Communication Engineering and Electronic Information Engineering from China University of Petroleum (East China), advised by Assoc. [Prof. Huajun Song](https://ocean.upc.edu.cn/2019/1110/c15435a225005/page.htm) and [Prof. Peng Ren](https://ocean.upc.edu.cn/2019/1113/c15435a225590/page.htm).
 
 ---
 
@@ -29,7 +29,7 @@ My research focuses on **Computer Vision** and **Intelligent Information Process
 * **Multimodal Learning:** Cross-modal feature fusion and prompt-based segmentation.
 
 ### 🤝 Collaboration
-I actively collaborate with [Yunke Wang](https://yunke-wang.github.io/), [Xu Zhang](https://house-yuyu.github.io/), [Kui Jiang](https://scholar.google.com/citations?user=AbOLE9QAAAAJ&hl), and other researchers in the community. 
+I actively collaborate with [Kui Jiang](https://homepage.hit.edu.cn/jiangkui), [Yunke Wang](https://yunke-wang.github.io/), [Xu Zhang](https://house-yuyu.github.io/), [Weidong Zhang](https://xxgcxy.hist.edu.cn/info/1478/8956.htm), and other researchers in the community. 
 
 I am open to collaboration and welcome inquiries from anyone interested in my research. Please feel free to contact me via Email or WeChat.
 
