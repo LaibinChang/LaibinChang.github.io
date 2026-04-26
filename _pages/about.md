@@ -77,11 +77,15 @@ I am open to collaboration and welcome inquiries from anyone interested in my re
 8. **Laibin Chang**, Shaodong Wang, Yunke Wang, Xu Zhang, Kui Jiang, Chang Xu, and Bo Du. UniV2D: Bridging Visual Restoration and Semantic Perception for Underwater Salient Object Detection. 2026. (Under Review)
 
 # 🎖 Honors and Awards
-- *2025.10* National Scholarship for Graduate Students, Ministry of Education.
-- *2025.10* Outstanding Graduate Student of Wuhan University.
-- *2024.11* Outstanding Master's Thesis of Shandong Province.
-- *2022.12* Graduate Innovation Achievement Award of Shandong Province.
-- *2019.08* First Prize, National Electronic Design Competition.
+- *2026.03* Outstanding Graduate, Wuhan University.
+- *2025.10* National Scholarship for Doctoral Students, Ministry of Education.
+- *2025.10* Outstanding Graduate Student, Wuhan University.
+- *2024.11* Outstanding Master's Thesis, Shandong Province.
+- *2023.06* Outstanding Graduate, Shandong Province.
+- *2022.12* Graduate Innovation Achievement Award, Shandong Province.
+- *2021.10* National Scholarship for Master's Students, Ministry of Education.
+- *2020.06* Outstanding Undergraduate Graduate, Shandong Province.
+- *2019.08* First Prize of National Electronic Design Competition.
 - ...
 
 # 📖 Educations
