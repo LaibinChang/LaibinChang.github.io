@@ -21,9 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Laibin Chang"
+  # 使用 div 标签并设置 text-align: center 来实现强制居中
+  name             : '<div style="text-align: center;">Laibin Chang</div>'
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Wuhan University"
+  # bio 同样使用 div 居中
+  bio              : '<div style="text-align: center;">Wuhan University</div>'
   location         : "Wuhan, China"
   employer         : # ""
   pubmed           : 
