@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Laibin Chang"
+  name             : "Laibin Chang <small>(常来宾)</small>"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ph.D. Candidate at School of Computer Science, Wuhan University"
+  bio              : "Wuhan University"
   location         : "Wuhan, China"
   employer         : # ""
   pubmed           : 
