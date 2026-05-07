@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 👋 About Me
 Welcome to my academic homepage! I am **Laibin Chang (常来宾)**, a Ph.D. Candidate at the School of Computer Science, Wuhan University (WHU). I am currently affiliated with the [SIGMA Lab](https://sigma.whu.edu.cn/index.htm), supervised by Prof. [Bo Du](https://cs.whu.edu.cn/info/1019/2892.htm) and Prof.[Chang Xu](http://changxu.xyz/). Before that, I obtained my M.Eng. and B.Eng. degrees in Information and Communication Engineering and Electronic Information Engineering from China University of Petroleum (East China), advised by Assoc. Prof. [Huajun Song](https://ocean.upc.edu.cn/2019/1110/c15435a225005/page.htm) and Prof. [Peng Ren](https://ocean.upc.edu.cn/2019/1113/c15435a225590/page.htm).
 
 ---
@@ -76,22 +77,23 @@ I am open to collaboration and welcome inquiries from anyone interested in my re
 
 8. **Laibin Chang**, Shaodong Wang, Yunke Wang, Xu Zhang, Kui Jiang, Chang Xu, and Bo Du. UniV2D: Bridging Visual Restoration and Semantic Perception for Underwater Salient Object Detection. 2026. (Under Review)
 
-# 🎖 Honors and Awards
-- *2026.03* Outstanding Graduate, Wuhan University.
-- *2025.10* National Scholarship for Doctoral Students, Ministry of Education.
-- *2025.10* Outstanding Graduate Student, Wuhan University.
-- *2024.11* Outstanding Master's Thesis, Shandong Province.
-- *2023.06* Outstanding Graduate, Shandong Province.
-- *2022.12* Graduate Innovation Achievement Award, Shandong Province.
-- *2021.10* National Scholarship for Master's Students, Ministry of Education.
-- *2020.06* Outstanding Undergraduate Graduate, Shandong Province.
-- *2019.08* First Prize of National Electronic Design Competition.
+# 🏆 Honors and Awards
+- *2026.03* Outstanding Graduate, Wuhan University.（武汉大学优秀毕业生）
+- *2025.10* National Scholarship for Doctoral Students, Ministry of Education. （博士研究生国家奖学金）
+- *2025.10* Outstanding Graduate Student, Wuhan University.（武汉大学优秀研究生）
+- *2024.11* Outstanding Master's Thesis, Shandong Province.（山东省优秀硕士学位论文）
+- *2023.06* Outstanding Graduate, Shandong Province.（山东省优秀硕士毕业生）
+- *2022.12* Graduate Innovation Achievement Award, Shandong Province.（山东省研究生学术创新奖）
+- *2022.03* Graduate Innovation Achievement Award, Shandong Province.（山东省优秀学生）
+- *2021.10* National Scholarship for Master's Students, Ministry of Education. （硕士研究生国家奖学金）
+- *2020.06* Outstanding Undergraduate Graduate, Shandong Province.（山东省优秀本科毕业生）
+- *2019.08* First Prize of National Electronic Design Competition.（全国电子设计竞赛一等奖）
 - ...
 
 # 📖 Educations
 - *2023.09 – now*, Ph.D. in Software Engineering, Wuhan University (WHU), Wuhan, China.
-- *2020.09 – 2023.06*, M.Eng. in Information and Communication Engineering, China University of Petroleum (UPC), Qingdao, China.
-- *2016.09 – 2020.06*, B.Eng. in Electronic Information Engineering, China University of Petroleum (UPC), Qingdao, China.
+- *2020.09 – 2023.06*, M.S. in Information and Communication Engineering, China University of Petroleum (UPC), Qingdao, China.
+- *2016.09 – 2020.06*, B.S. in Electronic Information Engineering, China University of Petroleum (UPC), Qingdao, China.
 
 # 💬 Academic Service
 - *Conference Reviewer*: CVPR 2026/2025, ICCV 2025, AAAI 2026/2025, ACM MM 2026/2025, ECCV 2026, NeurIPS 2025.
