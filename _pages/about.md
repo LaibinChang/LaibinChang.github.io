@@ -61,7 +61,7 @@ I am open to collaboration and welcome inquiries from anyone interested in my re
 </div>
 </div>
 -->
-1. Huajun Song, **Laibin Chang**, Ziwei Chen, and Peng Ren. Enhancement-Registration-Homogenization (ERH): A comprehensive underwater visual reconstruction paradigm. IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**, 2022. <font color="#888888">(CCF A, Core A*, IF=20.4)</font> [[Paper]](https://ieeexplore.ieee.org/document/9844015)
+1. Huajun Song, **Laibin Chang**, Ziwei Chen, and Peng Ren. Enhancement-Registration-Homogenization (ERH): A comprehensive underwater visual reconstruction paradigm. IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**, 2022. **<font color="#888888">(CCF A, Core A*, IF=20.4)</font>** [[Paper]](https://ieeexplore.ieee.org/document/9844015)
 
 2. **Laibin Chang**, Huajun Song, Mingjie Li, and Ming Xiang. UIDEF: A real-world underwater image dataset and a color-contrast complementary image enhancement framework. ISPRS Journal of Photogrammetry and Remote Sensing, 2023.
 
