@@ -61,17 +61,17 @@ I am open to collaboration and welcome inquiries from anyone interested in my re
 </div>
 </div>
 -->
-1. Huajun Song, **Laibin Chang**, Ziwei Chen, and Peng Ren. Enhancement-Registration-Homogenization (ERH): A comprehensive underwater visual reconstruction paradigm. IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**, 2022. **<font color="#888888">(CCF A, Core A*, IF=20.4)</font>** [[Paper]](https://ieeexplore.ieee.org/document/9844015)
+1. Huajun Song, **Laibin Chang**, Ziwei Chen, and Peng Ren. Enhancement-Registration-Homogenization (ERH): A comprehensive underwater visual reconstruction paradigm. IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**, 2022. **<font color="#888888">(CCF A, Core A*, IF=24.3)</font>** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9490352) [[Code]](https://github.com/LaibinChang/Enhancement-Registration-Homogenization.git)
 
-3. **Laibin Chang**, Huajun Song, Mingjie Li, and Ming Xiang. UIDEF: A real-world underwater image dataset and a color-contrast complementary image enhancement framework. ISPRS Journal of Photogrammetry and Remote Sensing, 2023.
+3. **Laibin Chang**, Huajun Song, Mingjie Li, and Ming Xiang. UIDEF: A real-world underwater image dataset and a color-contrast complementary image enhancement framework. ISPRS Journal of Photogrammetry and Remote Sensing **(ISPRS)**, 2023. **<font color="#888888">(Core A*, IF=11.8)</font>** [[Paper]](https://www.sciencedirect.com/science/article/pii/S0924271623000138) [[Code]](https://github.com/LaibinChang/UIDEF.git)
 
-4. Huajun Song, **Laibin Chang***, Hao Wang, and Peng Ren. Dual-model: Revised imaging network and visual perception correction for underwater image enhancement. Engineering Applications of Artificial Intelligence, 2023.
+4. Huajun Song, **Laibin Chang***, Hao Wang, and Peng Ren. Dual-model: Revised imaging network and visual perception correction for underwater image enhancement. Engineering Applications of Artificial Intelligence **(EAAI)**, 2023. **<font color="#888888">(Core A*, IF=7.8)</font>** [[Paper]](https://www.sciencedirect.com/science/article/pii/S0952197623009156) [[Code]](https://laibinchang.github.io)
 
-5. **Laibin Chang**, Yunke Wang, Bo Du, and Chang Xu. Rectangling and enhancing underwater stitched image via content-aware warping and perception balancing. Neural Networks, 2024.
+5. **Laibin Chang**, Yunke Wang, Bo Du, and Chang Xu. Rectangling and enhancing underwater stitched image via content-aware warping and perception balancing. Neural Networks **(NN)** 2024. **<font color="#888888">(CCF B, Core A*, IF=6.3)</font>** [[Paper]](https://www.sciencedirect.com/science/article/pii/S0893608024007330) [[Code]](https://laibinchang.github.io)
 
-6. **Laibin Chang**, Yunke Wang, Longxiang Deng, Bo Du, and Chang Xu. WaterDiffusion: Learning a Prior-involved Unrolling Diffusion for Joint Underwater Saliency Detection and Visual Restoration. AAAI Conference on Artificial Intelligence, 2025.
+6. **Laibin Chang**, Yunke Wang, Longxiang Deng, Bo Du, and Chang Xu. WaterDiffusion: Learning a Prior-involved Unrolling Diffusion for Joint Underwater Saliency Detection and Visual Restoration. AAAI Conference on Artificial Intelligence **(AAAI)**, 2025. **<font color="#888888">(CCF A, Core A*)</font>** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32196) [[Code]](https://github.com/LaibinChang/WaterDiffusion.git)
 
-7. **Laibin Chang**, Yunke Wang, Bo Du, and Chang Xu. Color Correction Meets Cross-Spectral Refinement: A Distribution-Aware Diffusion for Underwater Image Restoration. IEEE Transactions on Multimedia, 2025.
+7. **Laibin Chang**, Yunke Wang, Bo Du, and Chang Xu. Color Correction Meets Cross-Spectral Refinement: A Distribution-Aware Diffusion for Underwater Image Restoration. IEEE Transactions on Multimedia **(TMM)**, 2026. **<font color="#888888">(CCF A, Core A*, IF=9.7)</font>** [[Paper]](https://ieeexplore.ieee.org/abstract/document/11353942) [[Code]](https://github.com/LaibinChang/DiffColor.git)
 
 8. **Laibin Chang**, Yunke Wang, Xu Zhang, Kui Jiang, Chang Xu, and Bo Du. SADA-IR: Learning Semantic-Adaptive and Degradation-Aware Priors for Multi-Weather Image Restoration. 2025. (Under Review)
 
