@@ -64,7 +64,8 @@ I am open to collaboration and welcome inquiries from anyone interested in my re
 1. Huajun Song, **Laibin Chang**, Ziwei Chen, and Peng Ren. Enhancement-Registration-Homogenization (ERH): A comprehensive underwater visual reconstruction paradigm. IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**, 2022. **<font color="#888888">(CCF A, Core A*, IF=24.3)</font>**
 <!--[[Paper]](https://ieeexplore.ieee.org/abstract/document/9490352) [[Code]](https://github.com/LaibinChang/Enhancement-Registration-Homogenization.git)-->
 
-3. **Laibin Chang**, Huajun Song, Mingjie Li, and Ming Xiang. UIDEF: A real-world underwater image dataset and a color-contrast complementary image enhancement framework. ISPRS Journal of Photogrammetry and Remote Sensing **(ISPRS)**, 2023. **<font color="#888888">(Core A*, IF=11.8)</font>** [[Paper]](https://www.sciencedirect.com/science/article/pii/S0924271623000138) [[Code]](https://github.com/LaibinChang/UIDEF.git)
+3. **Laibin Chang**, Huajun Song, Mingjie Li, and Ming Xiang. UIDEF: A real-world underwater image dataset and a color-contrast complementary image enhancement framework. ISPRS Journal of Photogrammetry and Remote Sensing **(ISPRS)**, 2023. **<font color="#888888">(Core A*, IF=11.8)</font>**
+<!--[[Paper]](https://www.sciencedirect.com/science/article/pii/S0924271623000138) [[Code]](https://github.com/LaibinChang/UIDEF.git)-->
 
 4. Huajun Song, **Laibin Chang***, Hao Wang, and Peng Ren. Dual-model: Revised imaging network and visual perception correction for underwater image enhancement. Engineering Applications of Artificial Intelligence **(EAAI)**, 2023. **<font color="#888888">(Core A*, IF=7.8)</font>**
 <!--[[Paper]](https://www.sciencedirect.com/science/article/pii/S0952197623009156) [[Code]](https://laibinchang.github.io)-->
