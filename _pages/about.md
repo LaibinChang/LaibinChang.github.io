@@ -76,7 +76,10 @@ I am open to collaboration and welcome inquiries from anyone interested in my re
 6. **Laibin Chang**, Yunke Wang, Longxiang Deng, Bo Du, and Chang Xu. WaterDiffusion: Learning a Prior-involved Unrolling Diffusion for Joint Underwater Saliency Detection and Visual Restoration. AAAI Conference on Artificial Intelligence **(AAAI)**, 2025. **<font color="#888888">(CCF A, Core A*)</font>**
 <!--[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32196) [[Code]](https://github.com/LaibinChang/WaterDiffusion.git)-->
 
-7. **Laibin Chang**, Yunke Wang, Bo Du, and Chang Xu. Color Correction Meets Cross-Spectral Refinement: A Distribution-Aware Diffusion for Underwater Image Restoration. IEEE Transactions on Multimedia **(TMM)**, 2026. **<font color="#888888">(CCF A, Core A*, IF=9.7)</font>**
+7. **Laibin Chang**, Yunke Wang, Bo Du, and Chang Xu. Color Correction Meets Cross-Spectral Refinement: A Distribution-Aware Diffusion for Underwater Image Restoration. IEEE Transactions on Multimedia **(TMM)**, 2025. **<font color="#888888">(CCF A, Core A*, IF=9.7)</font>**
+<!--[[Paper]](https://ieeexplore.ieee.org/abstract/document/11353942) [[Code]](https://github.com/LaibinChang/DiffColor.git)-->
+
+8. **Laibin Chang**, Laibin Chang, Yunke Wang, Jiaxing Huang, Longxiang Deng, Bo Du, and Chang Xu. Marine Saliency Segmenter: Object-Focused Conditional Diffusion with Region-Level Semantic Knowledge Distillation. IEEE Transactions on Image Processing **(TIP)**, 2026. **<font color="#888888">(CCF A, Core A*, IF=9.7)</font>**
 <!--[[Paper]](https://ieeexplore.ieee.org/abstract/document/11353942) [[Code]](https://github.com/LaibinChang/DiffColor.git)-->
 
 9. **Laibin Chang**, Yunke Wang, Xu Zhang, Kui Jiang, Chang Xu, and Bo Du. SADA-IR: Learning Semantic-Adaptive and Degradation-Aware Priors for Multi-Weather Image Restoration. 2025. (Under Review)
