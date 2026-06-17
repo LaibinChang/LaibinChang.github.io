@@ -99,7 +99,7 @@ I am open to collaboration and welcome inquiries from anyone interested in my re
 - ...
 
 # 📖 Educations
-- *2023.09 – now*, Ph.D. in Software Engineering, Wuhan University (WHU), Wuhan, China.
+- *2023.09 – 2026.06*, Ph.D. in Computer Science, Wuhan University (WHU), Wuhan, China.
 - *2020.09 – 2023.06*, M.S. in Information and Communication Engineering, China University of Petroleum (UPC), Qingdao, China.
 - *2016.09 – 2020.06*, B.S. in Electronic Information Engineering, China University of Petroleum (UPC), Qingdao, China.
 
