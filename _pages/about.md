@@ -34,7 +34,6 @@ I actively collaborate with [Kui Jiang](https://homepage.hit.edu.cn/jiangkui), [
 
 I am open to collaboration and welcome inquiries from anyone interested in my research. Please feel free to contact me via Email or WeChat.
 
-
 ### 📞 Contact
 * **Email:** [changlb666@whu.edu.cn](mailto:changlb666@whu.edu.cn)
 * **WeChat（微信）:** `changlb666`
