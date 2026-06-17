@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About Me
-Welcome to my academic homepage! I am **Laibin Chang (常来宾)**, a Ph.D. Candidate at the School of Computer Science, Wuhan University (WHU). I am currently affiliated with the [SIGMA Lab](https://sigma.whu.edu.cn/index.htm), supervised by Prof. [Bo Du](https://cs.whu.edu.cn/info/1019/2892.htm) and Prof.[Chang Xu](http://changxu.xyz/). Before that, I obtained my M.Eng. and B.Eng. degrees in Information and Communication Engineering and Electronic Information Engineering from China University of Petroleum (East China), advised by Assoc. Prof. [Huajun Song](https://ocean.upc.edu.cn/2019/1110/c15435a225005/page.htm) and Prof. [Peng Ren](https://ocean.upc.edu.cn/2019/1113/c15435a225590/page.htm).
+Welcome to my academic homepage! I am **Laibin Chang (常来宾)**. I received my Ph.D. degree from the School of Computer Science, Wuhan University (WHU), where I was affiliated with the [SIGMA Lab](https://sigma.whu.edu.cn/index.htm), supervised by Prof. [Bo Du](https://cs.whu.edu.cn/info/1019/2892.htm) and Prof.[Chang Xu](http://changxu.xyz/). Before that, I obtained my M.Eng. and B.Eng. degrees in Information and Communication Engineering and Electronic Information Engineering from China University of Petroleum (East China), advised by Assoc. Prof. [Huajun Song](https://ocean.upc.edu.cn/2019/1110/c15435a225005/page.htm) and Prof. [Peng Ren](https://ocean.upc.edu.cn/2019/1113/c15435a225590/page.htm).
 
 ---
 
