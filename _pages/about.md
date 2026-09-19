@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About Me
-Welcome to my academic homepage! I am **Laibin Chang (常来宾)**. I received my Ph.D. degree from the School of Computer Science, Wuhan University (WHU), where I was affiliated with the [SIGMA Lab](https://sigma.whu.edu.cn/index.htm), supervised by Prof. [Bo Du](https://cs.whu.edu.cn/info/1019/2892.htm) and Prof.[Chang Xu](http://changxu.xyz/). Before that, I obtained my M.Eng. and B.Eng. degrees in Information and Communication Engineering and Electronic Information Engineering from China University of Petroleum (East China), advised by Assoc. Prof. [Huajun Song](https://ocean.upc.edu.cn/2019/1110/c15435a225005/page.htm) and Prof. [Peng Ren](https://ocean.upc.edu.cn/2019/1113/c15435a225590/page.htm).
+Welcome to my academic homepage! I am **Laibin Chang (常来宾)**, currently an Associate Professor at the School of Computer and Artificial Intelligence, Zhengzhou University (ZZU), where I work closely with Prof. [Mingliang Xu](https://www7.zzu.edu.cn/csai/info/1234/2497.htm). I received my Ph.D. degree in Software Engineering from the School of Computer Science, Wuhan University (WHU), where I was affiliated with the [SIGMA Lab](https://sigma.whu.edu.cn/index.htm), supervised by Prof. [Bo Du](https://cs.whu.edu.cn/info/1019/2892.htm) and Prof.[Chang Xu](http://changxu.xyz/). Before that, I received my M.Eng. degree in Information and Communication Engineering and my B.Eng. degree in Electronic Information Engineering from China University of Petroleum (East China). During this period, I was advised by Assoc. Prof. [Huajun Song](https://ocean.upc.edu.cn/2019/1110/c15435a225005/page.htm) and Prof. [Peng Ren](https://ocean.upc.edu.cn/2019/1113/c15435a225590/page.htm).
 
 ---
 
@@ -60,39 +60,46 @@ I am open to collaboration and welcome inquiries from anyone interested in my re
 </div>
 </div>
 -->
-1. Huajun Song, **Laibin Chang**, Ziwei Chen, and Peng Ren. Enhancement-Registration-Homogenization (ERH): A comprehensive underwater visual reconstruction paradigm. IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**, 2022. **<font color="#888888">(CCF A, Core A*, IF=24.3)</font>**
-<!--[[Paper]](https://ieeexplore.ieee.org/abstract/document/9490352) [[Code]](https://github.com/LaibinChang/Enhancement-Registration-Homogenization.git)-->
+1. **Laibin Chang**, Yunke Wang, Jiaxing Huang, Longxiang Deng, Bo Du, and Chang Xu. Marine Saliency Segmenter: Object-Focused Conditional Diffusion with Region-Level Semantic Knowledge Distillation. IEEE Transactions on Image Processing **(TIP)**, 2026. **<font color="#888888">(CCF A, Core A*, IF=15.3)</font>**
+<!--[[Paper]](https://ieeexplore.ieee.org/abstract/document/11551835) [[Code]](https://github.com/LaibinChang/DiffMSS.git)-->
 
-3. **Laibin Chang**, Huajun Song, Mingjie Li, and Ming Xiang. UIDEF: A real-world underwater image dataset and a color-contrast complementary image enhancement framework. ISPRS Journal of Photogrammetry and Remote Sensing **(ISPRS)**, 2023. **<font color="#888888">(Core A*, IF=11.8)</font>**
-<!--[[Paper]](https://www.sciencedirect.com/science/article/pii/S0924271623000138) [[Code]](https://github.com/LaibinChang/UIDEF.git)-->
+2. **Laibin Chang**, Yunke Wang, Bo Du, and Chang Xu. Color Correction Meets Cross-Spectral Refinement: A Distribution-Aware Diffusion for Underwater Image Restoration. IEEE Transactions on Multimedia **(TMM)**, 2025. **<font color="#888888">(CCF A, Core A*, IF=9.9)</font>**
+<!--[[Paper]](https://ieeexplore.ieee.org/abstract/document/11353942) [[Code]](https://github.com/LaibinChang/DiffColor.git)-->
 
-4. Huajun Song, **Laibin Chang***, Hao Wang, and Peng Ren. Dual-model: Revised imaging network and visual perception correction for underwater image enhancement. Engineering Applications of Artificial Intelligence **(EAAI)**, 2023. **<font color="#888888">(Core A*, IF=7.8)</font>**
-<!--[[Paper]](https://www.sciencedirect.com/science/article/pii/S0952197623009156) [[Code]](https://laibinchang.github.io)-->
-
-5. **Laibin Chang**, Yunke Wang, Bo Du, and Chang Xu. Rectangling and enhancing underwater stitched image via content-aware warping and perception balancing. Neural Networks **(NN)** 2024. **<font color="#888888">(CCF B, Core A*, IF=6.3)</font>**
-<!--[[Paper]](https://www.sciencedirect.com/science/article/pii/S0893608024007330) [[Code]](https://laibinchang.github.io)-->
-
-6. **Laibin Chang**, Yunke Wang, Longxiang Deng, Bo Du, and Chang Xu. WaterDiffusion: Learning a Prior-involved Unrolling Diffusion for Joint Underwater Saliency Detection and Visual Restoration. AAAI Conference on Artificial Intelligence **(AAAI)**, 2025. **<font color="#888888">(CCF A, Core A*)</font>**
+3. **Laibin Chang**, Yunke Wang, Longxiang Deng, Bo Du, and Chang Xu. WaterDiffusion: Learning a Prior-involved Unrolling Diffusion for Joint Underwater Saliency Detection and Visual Restoration. AAAI Conference on Artificial Intelligence **(AAAI)**, 2025. **<font color="#888888">(CCF A, Core A*)</font>**
 <!--[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32196) [[Code]](https://github.com/LaibinChang/WaterDiffusion.git)-->
 
-7. **Laibin Chang**, Yunke Wang, Bo Du, and Chang Xu. Color Correction Meets Cross-Spectral Refinement: A Distribution-Aware Diffusion for Underwater Image Restoration. IEEE Transactions on Multimedia **(TMM)**, 2025. **<font color="#888888">(CCF A, Core A*, IF=9.7)</font>**
-<!--[[Paper]](https://ieeexplore.ieee.org/abstract/document/11353942) [[Code]](https://github.com/LaibinChang/DiffColor.git)-->
+4. **Laibin Chang**, Yunke Wang, Bo Du, and Chang Xu. Rectangling and enhancing underwater stitched image via content-aware warping and perception balancing. Neural Networks **(NN)** 2024. **<font color="#888888">(CCF B, Core A*, IF=7.2)</font>**
+<!--[[Paper]](https://www.sciencedirect.com/science/article/pii/S0893608024007330) [[Code]](https://laibinchang.github.io)-->
 
-8. **Laibin Chang**, Yunke Wang, Jiaxing Huang, Longxiang Deng, Bo Du, and Chang Xu. Marine Saliency Segmenter: Object-Focused Conditional Diffusion with Region-Level Semantic Knowledge Distillation. IEEE Transactions on Image Processing **(TIP)**, 2026. **<font color="#888888">(CCF A, Core A*, IF=9.7)</font>**
-<!--[[Paper]](https://ieeexplore.ieee.org/abstract/document/11353942) [[Code]](https://github.com/LaibinChang/DiffColor.git)-->
+5. **Laibin Chang**, Huajun Song, Mingjie Li, and Ming Xiang. UIDEF: A real-world underwater image dataset and a color-contrast complementary image enhancement framework. ISPRS Journal of Photogrammetry and Remote Sensing **(ISPRS)**, 2023. **<font color="#888888">(Core A*, IF=12.9)</font>**
+<!--[[Paper]](https://www.sciencedirect.com/science/article/pii/S0924271623000138) [[Code]](https://github.com/LaibinChang/UIDEF.git)-->
 
-9. **Laibin Chang**, Yunke Wang, Xu Zhang, Kui Jiang, Chang Xu, and Bo Du. SADA-IR: Learning Semantic-Adaptive and Degradation-Aware Priors for Multi-Weather Image Restoration. 2025. (Under Review)
+6. Huajun Song, **Laibin Chang***, Hao Wang, and Peng Ren. Dual-model: Revised imaging network and visual perception correction for underwater image enhancement. Engineering Applications of Artificial Intelligence **(EAAI)**, 2023. **<font color="#888888">(Core A*, IF=9.0)</font>**
+<!--[[Paper]](https://www.sciencedirect.com/science/article/pii/S0952197623009156) [[Code]](https://laibinchang.github.io)-->
 
-10. **Laibin Chang**, Shaodong Wang, Yunke Wang, Xu Zhang, Kui Jiang, Chang Xu, and Bo Du. UniV2D: Bridging Visual Restoration and Semantic Perception for Underwater Salient Object Detection. 2026. (Under Review)
+7. Huajun Song, **Laibin Chang**, Ziwei Chen, and Peng Ren. Enhancement-Registration-Homogenization (ERH): A comprehensive underwater visual reconstruction paradigm. IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**, 2022. **<font color="#888888">(CCF A, Core A*, IF=20.4)</font>**
+<!--[[Paper]](https://ieeexplore.ieee.org/abstract/document/9490352) [[Code]](https://github.com/LaibinChang/Enhancement-Registration-Homogenization.git)-->
+
+8.	Ziqi Wang, Xu Zhang, **Laibin Chang**, Shi Chen, Jiaqi Ma, and Huan Zhang. InterLight: Leveraging Intrinsic Illumination Priors for Low-Light Image Enhancement. International Joint Conferences on Artificial Intelligence, **(IJCAI)**, 2026. **<font color="#888888">(CCF B, Core A*)</font>**
+<!--[[Paper]]( ) [[Code]]( )-->
+
+9.	Hao Wang, Shixin Sun, **Laibin Chang**, Huanyu Li, Wenwen Zhang, Alejandro C Frery, and Peng Ren. INSPIRATION: A reinforcement learning-based human visual perception-driven image enhancement paradigm for underwater scenes. Engineering Applications of Artificial Intelligence **(EAAI)**, 2024. **<font color="#888888">(Core A*, IF=9.0)</font>**<!--[[Paper]]( ) [[Code]]( )-->
+
+10.	Hang Sun, Zhiming Luo, Dong Ren, Bo Du, **Laibin Chang**, and Jun Wan. Unsupervised multi-branch network with high-frequency enhancement for image dehazing. Pattern Recognition, **(PR)**, 2024. **<font color="#888888">(Core A*, IF=9.1)</font>**<!--[[Paper]]( ) [[Code]]( )-->
+
+11. **Laibin Chang**, Yunke Wang, Xu Zhang, Kui Jiang, Chang Xu, and Bo Du. SADA-IR: Learning Semantic-Adaptive and Degradation-Aware Priors for Multi-Weather Image Restoration. 2025. (Under Review)
+
+12. **Laibin Chang**, Shaodong Wang, Yunke Wang, Xu Zhang, Kui Jiang, Chang Xu, and Bo Du. UniV2D: Bridging Visual Restoration and Semantic Perception for Underwater Salient Object Detection. 2026. (Under Review)
 
 # 🏆 Honors and Awards
-- *2026.03* Outstanding Graduate, Wuhan University.（武汉大学优秀毕业生）
+- *2026.06* Outstanding Graduate, Wuhan University.（武汉大学优秀毕业生）
 - *2025.10* National Scholarship for Doctoral Students, Ministry of Education. （博士研究生国家奖学金）
 - *2025.10* Outstanding Graduate Student, Wuhan University.（武汉大学优秀研究生）
 - *2024.11* Outstanding Master's Thesis, Shandong Province.（山东省优秀硕士学位论文）
 - *2023.06* Outstanding Graduate, Shandong Province.（山东省优秀硕士毕业生）
 - *2022.12* Graduate Innovation Achievement Award, Shandong Province.（山东省研究生学术创新奖）
-- *2022.03* Graduate Innovation Achievement Award, Shandong Province.（山东省优秀学生）
+- *2022.03* Outstanding Student, Shandong Province.（山东省优秀学生）
 - *2021.10* National Scholarship for Master's Students, Ministry of Education. （硕士研究生国家奖学金）
 - *2020.06* Outstanding Undergraduate Graduate, Shandong Province.（山东省优秀本科毕业生）
 - *2019.08* First Prize of National Electronic Design Competition.（全国电子设计竞赛一等奖）
