@@ -24,8 +24,8 @@ author:
   # 使用 div 标签并设置 text-align: center 来实现强制居中
   name             : "Laibin Chang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : 'Wuhan University<style>.author__name, .author__bio { text-align: center !important; width: 100%; display: block; }</style>'
-  location         : "Wuhan, China"
+  bio              : 'Zhengzhou University<style>.author__name, .author__bio { text-align: center !important; width: 100%; display: block; }</style>'
+  location         : "Zhengzhou, China"
   employer         : # ""
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=1l8X8PgAAAAJ"
